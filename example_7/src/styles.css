@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: grid;
+    grid-gap: 10px;
+    height: 100vh;
+
+    /* grid-template-columns: repeat(8, 1fr); */
+    /* grid-template-columns: repeat(8, minmax(100px, 1fr)); */
+    /* grid-template-columns: repeat(4, 100px minmax(100px, 1fr)); */
+    /* grid-template-columns: repeat(8, minmax(min-content, 1fr)); */
+    grid-template-columns: repeat(8, minmax(min-content, max-content));
+}
+
+main>* {
+    display: flex;
+    background-color: burlywood;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid #000; */
+}

@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: grid;
+    grid-gap: 10px;
+    height: 100vh;
+
+
+    grid-template-areas:
+        "header"
+        "izquierda"
+        "contenido"
+        "derecha"
+        "footer"
+    ;
+}
+
+@media(min-width: 1024px) {
+    main {
+        grid-template-areas:
+            "header header derecha"
+            "izquierda contenido derecha"
+            "izquierda footer derecha"
+        ;
+
+        grid-template-rows: 1fr 4fr 1fr;
+        grid-template-columns: 1fr 2fr 1fr;
+    }
+}
+
+main>* {
+    display: flex;
+    background-color: burlywood;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+header {
+    grid-area: header
+}
+
+aside:first-of-type {
+    grid-area: izquierda
+}
+
+aside:last-of-type {
+    grid-area: derecha
+}
+
+article {
+    grid-area: contenido
+}
+
+footer {
+    grid-area: footer
+}
