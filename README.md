@@ -1,5 +1,9 @@
 ### [CSS Grid: Principiante a Experto Creando Web Responsive](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/)
 
+<img src="UC-f248f4b2-65fe-4cb7-907a-be73667e5786.jpg" alt="CSS Grid: Principiante a Experto Creando Web Responsive" style="width: 800px; height:595px;"/>
+
+
+
 **¿Que es CSS Grid?**
 
 - [Example](https://sergiolopeztapia.github.io/course-css-grid/01_que-es-css-grid)
