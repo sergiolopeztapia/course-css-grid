@@ -2,47 +2,47 @@
 
 **¿Que es CSS Grid?**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/1_que-es-css-grid)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/01_que-es-css-grid)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/13967734#overview)
 
 **Terminologias y primeros pasos**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/2_terminologias-y-primeros-pasos)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/02_terminologias-y-primeros-pasos)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/13968034#overview)
 
 **Usando GRID lines por su nombre**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/3_grid-lines-por-su-nombre)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/03_grid-lines-por-su-nombre)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14179091#overview)
 
 **GRID start & GRID end lines**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/4_grid-start-grid-end-lines)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/04_grid-start-grid-end-lines)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14179093#overview)
 
 **Unidad de Medida Fracción (fr)**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/5_unidad-medida-fraccion-fr)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/05_unidad-medida-fraccion-fr)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14191264?#overview)
 
 **GRID template areas**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/6_grid-template-areas)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/06_grid-template-areas)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14191800#overview)
 
 **Establecer límites con minmax()**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/7_limites-minmax)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/07_limites-minmax)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14370698#overview)
 
 **GRID Dinámico con auto-fill y auto-fit**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/8_grid-dinamico-auto-fill-auto-fit)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/08_grid-dinamico-auto-fill-auto-fit)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14370980#overview)
 
 **GRID auto-placement y packing modes**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/9_grid-auto-placement-packing-modes)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/09_grid-auto-placement-packing-modes)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14371134#overview)
 
 **Implicit & explicit GRID**
