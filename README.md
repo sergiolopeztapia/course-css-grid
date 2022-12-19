@@ -50,17 +50,12 @@
 - [Example](https://sergiolopeztapia.github.io/course-css-grid/10_implicit-explicit-grid)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14371484#overview)
 
-**TBC - Alineamiento de GRID items con justify-items**
+**Alineamiento de GRID items con justify-items**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/11_)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/11_alineamiento-justify-items)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14371902#overview)
 
-**TBC - Alineamiento de GRID ítems con align-self**
+**Alineamiento de GRID ítems con align-items**
 
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/12_)
+- [Example](https://sergiolopeztapia.github.io/course-css-grid/12_alineamiento-grid-items-align-items)
 - [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14371968#overview)
-
-**TBC - Alineamiento de GRID ítems con justify-self y align-self**
-
-- [Example](https://sergiolopeztapia.github.io/course-css-grid/13_)
-- [Udemy link](https://www.udemy.com/course/css-grid-principiante-a-experto-creando-web-responsive/learn/lecture/14371972#overview)
